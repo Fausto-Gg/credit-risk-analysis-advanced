@@ -147,6 +147,10 @@ WHERE c.age > 18;
 - Financial behavior comparison across segments
 - Interactive filters for deeper analysis
 
+## 📊 Dashboard Preview
+
+![Dashboard](Images/dashboard.png)
+
 
 ## Tools Used
 - Python (Pandas, NumPy) → data cleaning and analysis
